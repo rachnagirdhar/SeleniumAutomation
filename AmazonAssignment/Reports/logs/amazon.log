@@ -1,0 +1,8 @@
+19:50:16.432 [main] INFO  com.amazon.base.AmazonBaseClass - ====If element is present click on that Element====
+19:50:19.765 [main] INFO  com.amazon.base.AmazonBaseClass - ====Fetching items added to cart text for verification====
+19:50:19.765 [main] INFO  com.amazon.base.AmazonBaseClass - =====fetching the title of the element====
+19:50:21.133 [main] INFO  com.amazon.base.AmazonBaseClass - ====Clicking on Shoppping cart icon from main menu====
+19:50:21.133 [main] INFO  com.amazon.base.AmazonBaseClass - ====If element is present click on that Element====
+19:50:22.092 [main] INFO  com.amazon.base.AmazonBaseClass - ====Getting the title of top item in the shopping cart====
+19:50:22.092 [main] INFO  com.amazon.base.AmazonBaseClass - =====fetching the title of the element====
+19:50:22.401 [main] INFO  com.amazon.base.AmazonBaseClass - ====Closing the browser====

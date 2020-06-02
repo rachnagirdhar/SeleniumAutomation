@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 33.363 s <<< FAILURE! - in TestSuite
+multiSearchResultVerification(com.amazon.productTests.ProducrSearchTests)  Time elapsed: 3.098 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.amazon.productTests.ProducrSearchTests.multiSearchResultVerification(ProducrSearchTests.java:56)
+

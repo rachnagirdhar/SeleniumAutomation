@@ -1,0 +1,7 @@
+com/amazon/pages/ProductDetailPage.class
+com/amazon/pages/HomePage.class
+com/amazon/Util/WebFunctions.class
+com/amazon/Util/Constants.class
+com/amazon/pages/ProductSearchResultPage.class
+com/amazon/pages/ShoppingCartPage.class
+com/amazon/base/AmazonBaseClass.class

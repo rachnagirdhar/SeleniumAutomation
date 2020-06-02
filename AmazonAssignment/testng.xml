@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="AmazonProduct test Suite">
+
+  
+<listeners>
+<listener class-name="com.amazon.test.utils.AmazonListners" />
+
+</listeners>
+
+  <test thread-count="5" name="AmazonProduct">
+  
+  
+  
+    <classes>
+      
+      <class name="com.amazon.productTests.ProducrSearchTests">
+      
+  
+
+</class>
+      <class name="com.amazon.productTests.AddProductToCartTests"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
+
+
+
+

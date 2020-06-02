@@ -1,0 +1,99 @@
+17:45:45.392 [main] INFO  com.amazon.base.AmazonBaseClass - java.lang.NullPointerException
+17:46:39.892 [main] INFO  com.amazon.base.AmazonBaseClass - ====Generating Extent report====
+17:46:40.020 [main] INFO  com.amazon.base.AmazonBaseClass - ====Taking ScreenShot====
+17:46:40.022 [main] INFO  com.amazon.base.AmazonBaseClass - java.lang.NullPointerException
+17:48:38.346 [main] INFO  com.amazon.base.AmazonBaseClass - ====Generating Extent report====
+17:48:38.474 [main] INFO  com.amazon.base.AmazonBaseClass - ====Taking ScreenShot====
+17:48:38.477 [main] INFO  com.amazon.base.AmazonBaseClass - java.lang.NullPointerException
+19:49:50.409 [main] INFO  com.amazon.base.AmazonBaseClass - ====Generating Extent report====
+19:49:50.515 [main] INFO  com.amazon.base.AmazonBaseClass - ====Initializing browser====
+19:49:50.516 [main] INFO  com.amazon.base.AmazonBaseClass - =====Reading value from Property file====
+19:49:50.516 [main] INFO  com.amazon.base.AmazonBaseClass - =====Reading value from Property file====
+19:49:50.516 [main] INFO  com.amazon.base.AmazonBaseClass - =====Reading value from Property file====
+19:49:50.516 [main] INFO  com.amazon.base.AmazonBaseClass - ====Reading value from Excel====
+19:49:51.055 [main] INFO  com.amazon.base.AmazonBaseClass - ====Reading value from Excel====
+19:49:51.090 [main] INFO  com.amazon.base.AmazonBaseClass - ====Reading value from Excel====
+19:49:53.022 [main] INFO  com.amazon.base.AmazonBaseClass - ====Initializing the Home page object====
+19:49:53.051 [main] INFO  com.amazon.base.AmazonBaseClass - ====Opening the URL====
+19:49:55.329 [main] INFO  com.amazon.base.AmazonBaseClass - ====Clicking on category menu====
+19:49:55.329 [main] INFO  com.amazon.base.AmazonBaseClass - ====waiting for the element to get clickable====
+19:49:55.352 [main] INFO  com.amazon.base.AmazonBaseClass - java.lang.NullPointerException
+19:49:55.352 [main] INFO  com.amazon.base.AmazonBaseClass - ====If element is present click on that Element====
+19:49:55.427 [main] ERROR com.amazon.base.AmazonBaseClass - Element is not available to click
+19:49:55.429 [main] INFO  com.amazon.base.AmazonBaseClass - ====Selecting option from category dropdown====
+19:49:55.429 [main] INFO  com.amazon.base.AmazonBaseClass - =====select the menu option using select by index====
+19:49:55.453 [main] ERROR com.amazon.base.AmazonBaseClass - Category menu is not present
+19:49:55.453 [main] INFO  com.amazon.base.AmazonBaseClass - ====Clicking on Go icon====
+19:49:55.453 [main] INFO  com.amazon.base.AmazonBaseClass - ====If element is present click on that Element====
+19:49:59.047 [main] INFO  com.amazon.base.AmazonBaseClass - =====Getting Home page title====
+19:49:59.053 [main] INFO  com.amazon.base.AmazonBaseClass - ====Getting the page title====
+19:49:59.062 [main] INFO  com.amazon.base.AmazonBaseClass - ====Verifying Search result without selecting Category====
+19:49:59.062 [main] INFO  com.amazon.base.AmazonBaseClass - ====entering keyword to search into the Search text box====
+19:49:59.062 [main] INFO  com.amazon.base.AmazonBaseClass - ====if text box element is present enter the text in textbox=====
+19:49:59.217 [main] INFO  com.amazon.base.AmazonBaseClass - ====Clicking on Go icon====
+19:49:59.217 [main] INFO  com.amazon.base.AmazonBaseClass - ====If element is present click on that Element====
+19:50:01.923 [main] INFO  com.amazon.base.AmazonBaseClass - ====Navigate to Search Result Page====
+19:50:01.923 [main] INFO  com.amazon.base.AmazonBaseClass - ====If element is present click on that Element====
+19:50:03.239 [main] INFO  com.amazon.base.AmazonBaseClass - ====Getting the page title====
+19:50:03.275 [main] INFO  com.amazon.base.AmazonBaseClass - =====Fetching the SearchResult page Title====
+19:50:03.276 [main] INFO  com.amazon.base.AmazonBaseClass - =====Getting Home page title====
+19:50:03.276 [main] INFO  com.amazon.base.AmazonBaseClass - ====Getting the page title====
+19:50:03.318 [main] INFO  com.amazon.base.AmazonBaseClass - ====Clicking on category menu====
+19:50:03.318 [main] INFO  com.amazon.base.AmazonBaseClass - ====waiting for the element to get clickable====
+19:50:03.320 [main] INFO  com.amazon.base.AmazonBaseClass - java.lang.NullPointerException
+19:50:03.320 [main] INFO  com.amazon.base.AmazonBaseClass - ====If element is present click on that Element====
+19:50:03.339 [main] ERROR com.amazon.base.AmazonBaseClass - Element is not available to click
+19:50:03.339 [main] INFO  com.amazon.base.AmazonBaseClass - ====Selecting option from category dropdown====
+19:50:03.339 [main] INFO  com.amazon.base.AmazonBaseClass - =====select the menu option using select by index====
+19:50:03.372 [main] ERROR com.amazon.base.AmazonBaseClass - Category menu is not present
+19:50:03.372 [main] INFO  com.amazon.base.AmazonBaseClass - ====entering keyword to search into the Search text box====
+19:50:03.372 [main] INFO  com.amazon.base.AmazonBaseClass - ====if text box element is present enter the text in textbox=====
+19:50:03.544 [main] INFO  com.amazon.base.AmazonBaseClass - ====Clicking on Go icon====
+19:50:03.544 [main] INFO  com.amazon.base.AmazonBaseClass - ====If element is present click on that Element====
+19:50:04.835 [main] INFO  com.amazon.base.AmazonBaseClass - ====Navigate to Search Result Page====
+19:50:04.835 [main] INFO  com.amazon.base.AmazonBaseClass - ====If element is present click on that Element====
+19:50:05.667 [main] INFO  com.amazon.base.AmazonBaseClass - ====Getting the page title====
+19:50:05.692 [main] INFO  com.amazon.base.AmazonBaseClass - =====Fetching the SearchResult page Title====
+19:50:05.695 [main] INFO  com.amazon.base.AmazonBaseClass - ====Taking ScreenShot====
+19:50:06.374 [main] INFO  com.amazon.base.AmazonBaseClass - ====Clicking on category menu====
+19:50:06.374 [main] INFO  com.amazon.base.AmazonBaseClass - ====waiting for the element to get clickable====
+19:50:06.374 [main] INFO  com.amazon.base.AmazonBaseClass - java.lang.NullPointerException
+19:50:06.374 [main] INFO  com.amazon.base.AmazonBaseClass - ====If element is present click on that Element====
+19:50:06.623 [main] ERROR com.amazon.base.AmazonBaseClass - Element is not available to click
+19:50:06.623 [main] INFO  com.amazon.base.AmazonBaseClass - ====Selecting option from category dropdown====
+19:50:06.624 [main] INFO  com.amazon.base.AmazonBaseClass - =====select the menu option using select by index====
+19:50:06.647 [main] ERROR com.amazon.base.AmazonBaseClass - Category menu is not present
+19:50:06.647 [main] INFO  com.amazon.base.AmazonBaseClass - ====entering invalid search keyword to Search text box====
+19:50:06.647 [main] INFO  com.amazon.base.AmazonBaseClass - ====if text box element is present enter the text in textbox=====
+19:50:06.886 [main] INFO  com.amazon.base.AmazonBaseClass - ====Clicking on Go icon====
+19:50:06.886 [main] INFO  com.amazon.base.AmazonBaseClass - ====If element is present click on that Element====
+19:50:07.531 [main] INFO  com.amazon.base.AmazonBaseClass - ====Navigate to Search Result Page====
+19:50:07.531 [main] INFO  com.amazon.base.AmazonBaseClass - ====If element is present click on that Element====
+19:50:07.787 [main] INFO  com.amazon.base.AmazonBaseClass - ====Fetching No search results output title====
+19:50:08.752 [main] INFO  com.amazon.base.AmazonBaseClass - ====getting tile for no search result====
+19:50:08.763 [main] INFO  com.amazon.base.AmazonBaseClass - ====Closing the browser====
+19:50:08.935 [main] INFO  com.amazon.base.AmazonBaseClass - ====Initializing browser====
+19:50:10.060 [main] INFO  com.amazon.base.AmazonBaseClass - ====Opening the URL====
+19:50:12.271 [main] INFO  com.amazon.base.AmazonBaseClass - =====Getting Home page title====
+19:50:12.271 [main] INFO  com.amazon.base.AmazonBaseClass - ====Getting the page title====
+19:50:12.316 [main] INFO  com.amazon.base.AmazonBaseClass - ====Clicking on category menu====
+19:50:12.320 [main] INFO  com.amazon.base.AmazonBaseClass - ====waiting for the element to get clickable====
+19:50:12.321 [main] INFO  com.amazon.base.AmazonBaseClass - java.lang.NullPointerException
+19:50:12.321 [main] INFO  com.amazon.base.AmazonBaseClass - ====If element is present click on that Element====
+19:50:12.411 [main] ERROR com.amazon.base.AmazonBaseClass - Element is not available to click
+19:50:12.411 [main] INFO  com.amazon.base.AmazonBaseClass - ====Selecting option from category dropdown====
+19:50:12.411 [main] INFO  com.amazon.base.AmazonBaseClass - =====select the menu option using select by index====
+19:50:12.506 [main] ERROR com.amazon.base.AmazonBaseClass - Category menu is not present
+19:50:12.508 [main] INFO  com.amazon.base.AmazonBaseClass - ====entering keyword to search into the Search text box====
+19:50:12.508 [main] INFO  com.amazon.base.AmazonBaseClass - ====if text box element is present enter the text in textbox=====
+19:50:12.676 [main] INFO  com.amazon.base.AmazonBaseClass - ====Clicking on Go icon====
+19:50:12.676 [main] INFO  com.amazon.base.AmazonBaseClass - ====If element is present click on that Element====
+19:50:14.226 [main] INFO  com.amazon.base.AmazonBaseClass - ====Navigate to Search Result Page====
+19:50:14.226 [main] INFO  com.amazon.base.AmazonBaseClass - ====If element is present click on that Element====
+19:50:16.130 [main] INFO  com.amazon.base.AmazonBaseClass - ==========Getting title of first searched product=========
+19:50:16.184 [main] INFO  com.amazon.base.AmazonBaseClass - =====fetching the title of the element====
+19:50:16.219 [main] INFO  com.amazon.base.AmazonBaseClass - ====Clicking on first searched item====
+19:50:16.228 [main] INFO  com.amazon.base.AmazonBaseClass - ====If element is present click on that Element====
+19:50:16.419 [main] INFO  com.amazon.base.AmazonBaseClass - ====Moving to the new opened tab ====
+19:50:16.419 [main] INFO  com.amazon.base.AmazonBaseClass - ====Switching the driver to next child window====
+19:50:16.432 [main] INFO  com.amazon.base.AmazonBaseClass - ====Clicking on add to cart to add item into the cart====

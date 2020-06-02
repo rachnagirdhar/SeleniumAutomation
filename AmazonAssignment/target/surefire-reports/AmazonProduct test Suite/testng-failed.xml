@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [AmazonProduct test Suite]">
+  <listeners>
+    <listener class-name="com.amazon.test.utils.AmazonListners"/>
+  </listeners>
+  <test thread-count="5" verbose="0" name="AmazonProduct(failed)">
+    <classes>
+      <class name="com.amazon.productTests.ProducrSearchTests">
+        <methods>
+          <include name="init"/>
+          <include name="multiSearchResultVerification"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- com.amazon.productTests.ProducrSearchTests -->
+    </classes>
+  </test> <!-- AmazonProduct(failed) -->
+</suite> <!-- Failed suite [AmazonProduct test Suite] -->
