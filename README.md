@@ -206,7 +206,6 @@ Steps:
 
 4.  Go to testing.xml and right click to run that as TestNG suite.
 
-    1.  
 
 Reports
 =======
